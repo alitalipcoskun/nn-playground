@@ -1,0 +1,1 @@
+It is a playground repository for my studies at Neural Networks via Andrej Karpathy YouTube videos.
