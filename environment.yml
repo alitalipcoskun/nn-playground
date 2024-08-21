@@ -1,4 +1,4 @@
-name: andrej_karpeth
+name: andrej_karpathy
 channels:
   - defaults
 dependencies:
@@ -433,4 +433,4 @@ dependencies:
   - zstd=1.5.5=hd43e919_2
   - pip:
       - micrograd==0.1.0
-prefix: C:\Users\ali_t\anaconda3\envs\andrej_karpeth
+prefix: C:\Users\ali_t\anaconda3\envs\andrej_karpathy
